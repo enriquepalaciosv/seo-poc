@@ -7,7 +7,7 @@ function ClientSide() {
         <div className="App">
             <Helmet>
                 <meta name="og:title" content="Client Side Page" data-react-helmet="true" />
-                <meta name="og:image" content="logo512.png" data-react-helmet="true" />
+                <meta name="og:image" content="https://seo-poc.vercel.app/logo512.png" data-react-helmet="true" />
             </Helmet>
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
